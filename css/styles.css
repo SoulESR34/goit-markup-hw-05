@@ -257,7 +257,7 @@ nav,
 }
 
 .hero{
-    background-image: linear-gradient(to top,  rgba(0, 0, 0, 0.133),  rgba(0, 0, 0, 0.133)), url(./images/hero.jpg);
+    background-image: linear-gradient(to top,  rgba(0, 0, 0, 0.133),  rgba(0, 0, 0, 0.133)), url(../images/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
