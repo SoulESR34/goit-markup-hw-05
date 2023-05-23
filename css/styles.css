@@ -21,7 +21,8 @@ body{
     width: 1200px;
 }
 
-a:hover{
+a:hover,
+a:focus{
     color:#2196F3;
 }
 
@@ -366,6 +367,10 @@ nav,
 }
 
 .icon_customer:hover{
+    fill: #2196F3;
+}
+
+.customer a:focus{
     fill: #2196F3;
 }
 
